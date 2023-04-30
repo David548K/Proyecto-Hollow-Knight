@@ -67,6 +67,7 @@ body{
     align-items: center;
     background-color: #00000071;
     color: #ffffff;
+    text-shadow: 0 0 10px #ffffff, 0 0 10px #ffffff;
 }
 .mapa__h2{
     line-height: 2;
