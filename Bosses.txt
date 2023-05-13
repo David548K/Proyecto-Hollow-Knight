@@ -1,31 +1,31 @@
-Broken Vessel
-Brooding Mawlek
-Brothers Oro & Mato
-The Collector
-Crystal Guardian
-Dung Defender
-False Knight
-Flukemarm
-God Tamer
-Great Nailsage Sly
-Grimm
-Gruz Mother
-Hive Knight
-Hollow Knight
-Hornet
-Mantis Lords
-Massive Moss Charger
-Nosk
-Oblobbles
-Paintmaster Sheo
-Radiance
-Soul Master
-Soul Warrior
-Traitor Lord
-Uumuu
-Vengefly King
-Watcher Knight
-Zote
+Broken Vessel	
+Brooding Mawlek	
+Brothers Oro & Mato	
+The Collector	
+Crystal Guardian	
+Dung Defender	
+False Knight	
+Flukemarm	
+God Tamer	
+Great Nailsage Sly	
+Grimm		
+Gruz Mother	
+Hive Knight	
+Hollow Knight	
+Hornet		
+Mantis Lords	
+Massive Moss Charger	
+Nosk		
+Oblobbles		
+Paintmaster Sheo	
+Radiance		
+Soul Master	
+Soul Warrior	
+Traitor Lord	
+Uumuu		
+Vengefly King	
+Watcher Knight	
+Zote		
 
 VARIANTES
 Absolute Radiance

@@ -41,6 +41,7 @@ body{
     color: #ffffff;
 }
 .header__nav-ul-li-a:hover{
+    transition: .8s all;
     box-shadow: 0 0 10px #ffffff, 0 0 20px #ffffff;
     text-shadow: 0 0 10px #ffffff, 0 0 20px #ffffff;
 }
