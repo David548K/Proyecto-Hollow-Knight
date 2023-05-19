@@ -64,10 +64,12 @@ body{
     background-color: #00000071;
 }
 .main__h1{
+    line-height: 3;
     font-size: 40px;
     margin: 5px;
 }
 .main__p{
+    line-height: 1.7;
     font-size: 18px;
     margin: 3px;
 }

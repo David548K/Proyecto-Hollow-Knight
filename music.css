@@ -14,6 +14,7 @@ body{
 }
 
 
+
 /*   Modificando Header   */
 .header{
     background-color: #000000;
@@ -47,15 +48,19 @@ body{
 
 
 
-/*   Modificando Contenido   */
+/*   Modificando el main   */
 .main{
+    height: 800px;
+    padding: 20px;
     margin: 40px;
+    line-height: 1.5;
+    color: #ffffff;
+    text-shadow: 0 0 10px #ffffff, 0 0 10px #ffffff;
+    text-align: center;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    color: #ffffff;
-    text-shadow: 0 0 10px #ffffff, 0 0 10px #ffffff;
 }
 .main__h2{
     font-size: 28px;
@@ -67,65 +72,27 @@ body{
     padding: 5px;
     margin: 5px;
 }
-
-
-/*  Lista Boss  */
-.listaBoss__ul{
-    display: flex;
-    width: 100%;
-    align-items: center;
-    justify-content: center;
-    flex-wrap: wrap;
-}
-.listaBoss__ul-li{
-    display: inline-block;
-    margin: 30px;
-    padding: 30px;
-    background-color: #00000071;
-    border: 3px solid #ffffff;
+.main__cajademusica{
+    width: 70%;
+    height: 70%;
+    border: 1px solid #ffffff;
+    margin: 40px;
     box-shadow: 0 0 10px #ffffff, 0 0 20px #ffffff;
+    background-color: #00000071;
+    color: #ffffff;
+    text-shadow: 0 0 10px #ffffff, 0 0 10px #ffffff;
 }
-.listaBoss__ul-li-gridContainer{
-    display: grid;
-    grid-template-columns: repeat(4, 100px);
-    grid-template-rows: repeat(5, 50px);
-    object-fit: cover;
-    grid-gap: 20px;
-    padding: 20px;
-}
-.listaBoss__ul-li-gridContainer-elementoa{
-   grid-column: 1/3;
-   grid-row: 1/4; 
-   width: 200px;
-   height: 160px;
-}
-.listaBoss__ul-li-gridContainer-elementoa img{
+.main__cajademusica-video{
     width: 100%;
     height: 100%;
-    object-fit: scale-down;
 }
-.listaBoss__ul-li-gridContainer-elementob{
-    color: #ffffff;
-    text-shadow: 0 0 10px #ffffff, 0 0 10px #ffffff;
-    text-align: center;
-    grid-column: 3/5;
-}
-.listaBoss__ul-li-gridContainer-elementoc{
-    line-height: 1.5;
-    color: #ffffff;
-    text-shadow: 0 0 10px #ffffff, 0 0 10px #ffffff;
-    text-align: center;
-    grid-column: 3/5;
-    grid-row: 2/4
-}
-.listaBoss__ul-li-gridContainer-elementod{
-    line-height: 1.5;
-    grid-column: 1/5;
-    grid-row: 4/6;
-    color: #ffffff;
-    text-shadow: 0 0 10px #ffffff, 0 0 10px #ffffff;
-    text-align: center;
-}
+
+
+
+
+
+
+
 
 
 
