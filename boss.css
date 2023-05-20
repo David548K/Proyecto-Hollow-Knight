@@ -67,6 +67,9 @@ body{
     padding: 5px;
     margin: 5px;
 }
+.header__img{
+    filter: drop-shadow(0 0 5px #ffffff);
+}
 
 
 /*  Lista Boss  */
